@@ -1,0 +1,18 @@
+{
+    "light-theme" : {
+        "background-color" : "background-color: rgb(240,240,240);",
+        "textfield-bg" : "background-color: rgb(255,255,255);",
+        "text-color-1" : "color: rgb(0, 0, 0);",
+        "text-color-2" : "color: rgb(141, 153, 174);",
+        "text-color-3" : "color: rgb(43,45,66);",
+        "borders" : "border : 1px solid black;"
+    },
+    "dark-theme" : {
+        "background-color" : "background-color: #1e1e1e;",
+        "textfield-bg" : "background-color: rgb(12,12,12);",
+        "text-color-1" : "color: rgb(255, 255, 255);",
+        "text-color-2" : "color: rgb(240, 240, 240);",
+        "text-color-3" : "color: rgb(189,210,212);",
+        "borders" : "border : 1px solid white;"
+    }
+}
